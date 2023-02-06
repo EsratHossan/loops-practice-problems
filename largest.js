@@ -1,4 +1,6 @@
- var num1 = 13;
+// Practice Problem Largest Number
+
+var num1 = 13;
 var num2 = 179;
 var num3 = 145;
 

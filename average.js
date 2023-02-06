@@ -1,3 +1,5 @@
+// Practice Problem 2
+
 var mathMarks = 75.25;
 var biologyMarks = 65;
 var chemistryMarks = 80;

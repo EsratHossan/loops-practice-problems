@@ -14,6 +14,6 @@ while(roastGiven < 7){
     // roastGiven = roastGiven + 1;
     // roastGiven += 1;
     console.log(roastGiven);
-    // roastGiven++;
+     roastGiven++;
 
 }
